@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vicmargar/calliope.svg?branch=master)](https://travis-ci.org/vicmargar/calliope)
+
 ![Calliope](http://f.cl.ly/items/0T3a1a1w472z2o3p0d3O/6660441229_f6503a0dd2_b.jpg)
 
 # Calliope - An Elixir Haml Parser
