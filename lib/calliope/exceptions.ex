@@ -14,7 +14,6 @@ defmodule CalliopeException do
     line = line_number(opts)
 
     %CalliopeException{message: build_message(error, line)}
-
   end
 
   defp build_message(error, line), do: Regex.replace(~r/#/, messages[error], "#{line}")
